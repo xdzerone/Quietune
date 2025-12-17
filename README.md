@@ -4,7 +4,7 @@ A calm and minimal music player for your desktop.
 ---
 
 ## 🌐 Live Website  
-[🔗 Visit Website](https://dixitparmar-dev.github.io/Quietune/)
+[🔗 Visit Website](https://xdzerone.github.io/Quietune/)
 
 ---
 
